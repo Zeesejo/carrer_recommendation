@@ -1,0 +1,20 @@
+# Node.js
+frontend/node_modules/
+frontend/npm-debug.log
+yarn-error.log
+frontend/dist/
+rronend/build/
+fronend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+.venv
